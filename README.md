@@ -1,6 +1,6 @@
-# TEA
+# TEA (Text Executed Adventure)
 
-The last of the world's old magic has nearly disappeared from the world. All that’s left are a handful of items that had previously been enchanted by the last Grand Witch.
+The last of the world's old magic has nearly disappeared from the world. All that’s left are a handful of items that had previously been enchanted by the last Grand Witch. Embark on an adventure to unite the last slivers of old magic left in the realm!
 	
 ## How it Works
 
