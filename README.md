@@ -41,10 +41,22 @@ The last of the world's old magic has nearly disappeared from the world. All tha
 Created by tea: 	
 
   * Kalie Davis
+  	* Combat mechanics
+  	* Merging code
+  	* Code clean-up and debugging
+  	* Documentation
   
   * Robert Chapa
+  	* Narrative
+  	* Graphics
+  	* Code clean-up and debugging
+  	* Documentation
   
   * Anabel Styskal
+  	* Game introduction
+  	* Merging code
+  	* Code debugging
+  	* Documentation
 
 ## Versions and Other Requirements
 
