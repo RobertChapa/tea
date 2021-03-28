@@ -14,21 +14,27 @@ The last of the world's old magic has nearly disappeared from the world. All tha
 
   * Run game
   
-  * Input starting commands ie yes, name, difficulty (1,2), go, next
+  * Input starting commands 
+  	* yes
+  	* name
+  	* difficulty (1,2)
+  	* go
+  	* next
 
 ### Playing
   
   * Use enter to view next message
   
-  * Answer using 1, 2, 3 when prompted
+  * Answer using numerical values when prompted
+  	* 1, 2, 3
 
 ### Combat
 
-  * Fight: Battle enemy to the death
+  * [1] Fight: Battle enemy to the death
   
-  * Elixir: Heal 15 HP 
+  * [2] Elixir: Heal 15 HP 
   
-  * Run: Skip current enemy in hopes of a weaker (or stronger) opponent 
+  * [3] Run: Skip current enemy in hopes of a weaker (or stronger) opponent 
   
   ## Development Team
 
