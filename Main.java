@@ -186,24 +186,24 @@ public class Main {
             }
             System.out.println("Let's goooooo! Enter go to start: ");
             String go = scan.next();
-            System.out.println("Description: The last of the worlds old magic has nearly disappeared from the world. All that’s left are a handful of items that had previously been enchanted by the last Grand Witch.");
-            System.out.println("Objective of the game: Acquire all the magic items left in the world to reignite the ‘well of magic’ and bring magic back into the world. Type next to continue: ");
+            System.out.println("Description: The last of the world's old magic has nearly disappeared from the world. All that’s left are a handful of items that had previously been enchanted by the last Grand Witch.");
+            System.out.println("Objective of the game: Acquire all the magic items left in the world to reignite the ‘Well of Magic’ and bring magic back into the world. Type next to continue: ");
 
             String next = scan.next();
             System.out.println("\"THE GRAND WITCH HAS BEEN LAID TO REST\"\r\n");
             String myLine = scan.nextLine();
-            System.out.println("The voice echoes in your mind. You wonder who that was. What that was.");
+            System.out.println("The voice echoes in your mind... You wonder who that was... What that was...");
             myLine = scan.nextLine();
             System.out.println("What do you do?");
             myLine = scan.nextLine();
-            System.out.println("1-Ask your sister if she heard that");
-            System.out.println("2-Ask the void if anybody is there");
-            System.out.println("3-Ask yourself if it was real");
+            System.out.println("\t> 1: Ask your sister if she heard that");
+            System.out.println("\t> 2: Ask the void if anybody is there");
+            System.out.println("\t> 3: Ask yourself if it was real");
             int myInteger = scan.nextInt();
 
             if(myInteger == 1)
             {
-                System.out.println("\"Yup. Guess the Grand witch is dead.\"");
+                System.out.println("\"Yup. Guess the Grand Witch is dead.\"");
                 myLine = scan.nextLine();
                 System.out.println("\"The who?\"");
                 myLine = scan.nextLine();
@@ -211,15 +211,15 @@ public class Main {
                 myLine = scan.nextLine();
                 System.out.println("\"?\"");
                 myLine = scan.nextLine();
-                System.out.println("\"Remember? We went to that day camp that one year and we got split it because I was older? and you went with the other kids to play witch. \nThey told us all about the Grand Witch, the Order, and how magic was real and we even got to try riding brooms?\"");
+                System.out.println("\"Remember? We went to that day camp that one year and we got split up because I was older, and you went with the other kids to play witch. \nThey told us all about the Grand Witch, the Order, and how magic was real and we even got to try riding brooms?\"");
                 myLine = scan.nextLine();
                 System.out.println("\"All we did was play dress up and pretend to cast spells with fake wands! And whats this about magic?\"");
                 myLine = scan.nextLine();
-                System.out.println("\"Yeah, like they went over it. Simple magic, advanced magic, magic cheats, etc. Not many bloodlines left, screening for magic potential, broom test.\"");
+                System.out.println("\"Yeah, like they went over it. Simple magic, advanced magic, magic cheats, etc... Not many bloodlines left, screening for magic potential, broom test.\"");
                 myLine = scan.nextLine();
                 System.out.println("\"Broom test?\"");
                 myLine = scan.nextLine();
-                System.out.println("\"yeah like in that scene in harry potter with the brooms. even being to call a broom to yourself was impressive. I was like one of three that could. \nCan't really do it anymore. Old magics gone.\"");
+                System.out.println("\"Yeah, like in that scene in Harry Potter with the brooms. Even being able to call a broom to yourself was impressive. I was like one of three that could. \nCan't really do it anymore. Old magics gone.\"");
                 myLine = scan.nextLine();
                 System.out.println("\">:O\"");
                 myLine = scan.nextLine();
@@ -227,69 +227,71 @@ public class Main {
                 myLine = scan.nextLine();
                 System.out.println("\"NoO! None of that! I never saw you do any of that stuff.\"");
                 myLine = scan.nextLine();
-                System.out.println("\"Oh yeah, no, of course not. They had the Grand Witch there just to amplify any nearby magic and still few of us could only summon a broom. \nThat was about it. It was cool, but uneventful. When i got home i could barely knock over a broom from a distance\"");
+                System.out.println("\"Oh yeah, no, of course not. They had the Grand Witch there just to amplify any nearby magic and still few of us could only summon a broom. \nThat was about it. It was cool, but uneventful. When I got home I could barely knock over a broom from a distance.\"");
                 myLine = scan.nextLine();
                 System.out.println("\">:O\"");
                 myLine = scan.nextLine();
-                System.out.println("\"Didn't mom take you back the next year ot learn all this stuff?\"");
+                System.out.println("\"Didn't mom take you back the next year to learn all this stuff?\"");
                 myLine = scan.nextLine();
                 System.out.println("\"NoooOO!\"");
                 myLine = scan.nextLine();
-                System.out.println("\"Oh. welp. exposition.\"");
+                System.out.println("\"Oh... welp... exposition.\"");
                 myLine = scan.nextLine();
-                System.out.println("What next?\n 1-Ask Mom\n 2-Take more time to process this\n 3-ah don believe it");
+                System.out.println("What next?\n\t> 1: Ask Mom\n\t> 2: Take more time to process this\n\t> 3: Ah don't believe it");
                 myInteger = scan.nextInt();
 
                 if(myInteger == 1)
                 {
-                    System.out.println("\"Hey so whats this about magic\"");
+                    System.out.println("\"Hey so what's this about magic.\"");
                     myLine = scan.nextLine();
-                    System.out.println("\"Oh yeah, the grand witch will be missed dearly!\"");
+                    System.out.println("\"Oh yeah, the Grand Witch will be missed dearly!\"");
                     myLine = scan.nextLine();
-                    System.out.println("\"No! why is this the First time im hearing about this?\"");
+                    System.out.println("\"No! Why is this the first time I'm hearing about this?\"");
                     myLine = scan.nextLine();
-                    System.out.println("\"What do you mean? Didn't you go to which camp forever ago?\"");
+                    System.out.println("\"What do you mean? Didn't you go to witch camp forever ago?\"");
                     myLine = scan.nextLine();
                     System.out.println("\"No!\"");
                     myLine = scan.nextLine();
-                    System.out.println("\"Oh. well if you want to get up to date and still try magic stuff, there taking interns right now to try to reignite the well of magic\"");
+                    System.out.println("\"Oh... well if you want to get up to date and still try magic stuff, they're taking interns right now to try to reignite the Well of Magic.\"");
                     myLine = scan.nextLine();
-                    System.out.println("\"Really! Who do I speak to about that?\"");
+                    System.out.println("\"Really!? Who do I speak to about that?\"");
                     myLine = scan.nextLine();
-                    System.out.println("\"The high council. Here, Gretchen owes me a favor anyway. Ill call them up. you should meet them in the back of the fabric store downtown. \"");
+                    System.out.println("\"The High Council. Here, they owe me a favor anyway. I'll call them up. You should meet them in the back of the fabric store downtown.\"");
                     myLine = scan.nextLine();
-                    System.out.println("What next?\n 1-Go downtown\n");
+                    System.out.println("What next?\n\t> 1: Go downtown\n\t> 2: Take a nap, then go downtown.");
                     myInteger = scan.nextInt();
 
                     if(myInteger == 1)//roll for internship
                     {
-                        System.out.println("\"Hello, im here for the internship.\"");
+                        System.out.println("\"Hello, I'm here for the internship.\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"Ah yes, your mother told me i should expect you. Your first so its all yours. Not many left even interested in this kind of thing. \nAnyways, the first thing you need to pickup is 18k in perfume. We're not paying for it, figure it out.\"");
+                        System.out.println("\"Ah yes, we've been expecting you. Your first so it's all yours. Not many younglings left even interested in this kind of thing. \nAnyway, the first thing you need to pickup is $18k in perfume. We're not paying for it. Figure it out.\"");
                         myLine = scan.nextLine();
                         System.out.println("\"Why perfume?\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"Okay, so the grand witch had a familiar.\"");
+                        System.out.println("*sigh*\"Okay, so the Grand Witch had a familiar...\"");
                         myLine = scan.nextLine();
                         System.out.println("\"Yes\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"And this familiar was just a whale she had enchanted\"");
+                        System.out.println("\"And this familiar was just a whale she had enchanted...\"");
                         myLine = scan.nextLine();
                         System.out.println("*Gives tedious look*");
                         myLine = scan.nextLine();
-                        System.out.println("\"But its got hunted by wailers and was made into various goods and sold off piece by piece. And now all that's left is its ambergris which was \nused to make this case of perfumes, but that should be good enough\"");
+                        System.out.println("\"But it was hunted by whalers, made into various goods, and sold off piece by piece. \nNow all that's left is its ambergris, which was used to make this batch of perfumes, but one case should be enough for the spell.\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"And so you want me to steal $18k worth of perfume\"");
+                        System.out.println("\"And so you want me to steal $18k worth of perfume?\"");
                         myLine = scan.nextLine();
                         System.out.println("\"You don't have to steal it.\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"Because theres a little bit if magic whale in it?\"");
+                        System.out.println("\"Because there's a little bit of magic whale in it?\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"Yes, its being shipped to a perfume store about 8 miles from here\"");
+                        System.out.println("\"Yes, it's being shipped to a perfume store about 8 miles from here.\"");
+                        myLine = scan.nextLine();
+                        System.out.println("...");
                         myLine = scan.nextLine();
                         System.out.println("*At the perfume store*");
                         myLine = scan.nextLine();
-                        System.out.println("\"The Truck with the shipment is still loaded, May as well just steal the whole truck.\"");
+                        System.out.println("\"The truck with the shipment is still loaded... may as well just steal the whole truck.\"");
                         myLine = scan.nextLine();
                         ///////////////Enter fight
                         while (running) {
@@ -298,7 +300,7 @@ public class Main {
                                 System.out.println("\n--------------------------------------------------\n");
                                 //ENEMY: set up
                                 randomPlayerDamage = rand.nextInt(25+((itemCount+1)*15));
-                                String[] enemies = new String[] {"Drivers", "Night Guards", "TAs", "Science Teacher"};
+                                String[] enemies = new String[] {"Driver", "Night Guard", "TA", "Science Teacher"};
                                 randomEnemy = 0;
                                 int[] enemyDamage = new int[] {15, 30, 40, 45};
                                 randomEnemyDamage = rand.nextInt(enemyDamage[randomEnemy])+10;
@@ -317,7 +319,6 @@ public class Main {
                                 //END GAME
                                 if (itemCount >= 1)
                                     running = false;
-                                System.out.println("\n--------------------------------------------------\n");
                             }
                             //ADVANCED
                             if (worldChoice.equals("2")) {
@@ -325,8 +326,8 @@ public class Main {
                                 //PLAYER: set up
                                 randomPlayerDamage = playerHealth+15;
                                 //ENEMY: set up
-                                String[] enemies = new String[] {"Drivers", "Night Guards", "TAs", "Science Teacher"};
-                                randomEnemy = 0;//rand.nextInt(enemies.length);
+                                String[] enemies = new String[] {"Driver", "Night Guard", "TA", "Science Teacher"};
+                                randomEnemy = 0;
                                 int[] enemyDamage = new int[] {15, 30, 40, 45};
                                 randomEnemyDamage = rand.nextInt(enemyDamage[randomEnemy])+10;
                                 int[] enemyHealth = new int[] {50, 75, 90, 150};
@@ -341,9 +342,7 @@ public class Main {
                                 elixirCount = returned[1];
                                 wins = returned[2];
                                 itemCount = returned[3];
-                                System.out.println("MAIN:" +playerHealth+ ", " +elixirCount+ ", " +wins+ ", " +itemCount);
                                 randomPlayerDamage = rand.nextInt(playerHealth+10);
-                                System.out.println("\n--------------------------------------------------\n");
                                 //END GAME
                                 if (itemCount >= 1)
                                     running = false;
@@ -402,14 +401,18 @@ public class Main {
                         System.out.println("                                                @                                                          &,                                                                       ");
                         System.out.println("                                                 @@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&@,                                                                        ");
                         myLine = scan.nextLine();
-                        System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\n\n\n\n\n\n\n");
+                        System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
+                        System.out.println("...");
+                        myLine = scan.nextLine();
                         System.out.println("*At the fabric store*");
                         myLine = scan.nextLine();
-                        System.out.println("\"Very good, now your next job is to retrieve the Ruby Kicks from the grand witches hoard\"");
+                        System.out.println("\"Very good, now your next job is to retrieve the Ruby Kicks from the Grand Witch's hoard.\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"which is where? and what?\"");
+                        System.out.println("\"Which is where? And what?\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"She kept a storage unit down town, the shoes are probably there\"");
+                        System.out.println("\"She kept a storage unit down town, the shoes are probably there.\"");
+                        myLine = scan.nextLine();
+                        System.out.println("...");
                         myLine = scan.nextLine();
                         System.out.println("*At the storage units*");
                         myLine = scan.nextLine();
@@ -418,11 +421,11 @@ public class Main {
                         //roll, 1-20, if x>5 fight anyway
                         //fight
                         boolean chance1 = chance();
-                       // System.out.println(chance1);
+                        // System.out.println(chance1);
                         boolean chance2 = chance();
-                       // System.out.println(chance2);
+                        // System.out.println(chance2);
                         boolean chance3 = chance();
-                       // System.out.println(chance3);
+                        // System.out.println(chance3);
                         if (chance1 || chance2 || chance3)
                         {
                             System.out.println("You narrowly avoided some guards.");
@@ -442,7 +445,7 @@ public class Main {
                                 System.out.println("\n--------------------------------------------------\n");
                                 //ENEMY: set up
                                 randomPlayerDamage = rand.nextInt(25+((itemCount+1)*15));
-                                String[] enemies = new String[] {"Drivers", "Night Guards", "TAs", "Science Teacher"};
+                                String[] enemies = new String[] {"Driver", "Night Guard", "TA", "Science Teacher"};
                                 randomEnemy = 1;
                                 int[] enemyDamage = new int[] {15, 30, 40, 45};
                                 randomEnemyDamage = rand.nextInt(enemyDamage[randomEnemy])+10;
@@ -461,7 +464,6 @@ public class Main {
                                 //END GAME
                                 if (itemCount >= 2)
                                     running = false;
-                                System.out.println("\n--------------------------------------------------\n");
                             }
                             //ADVANCED
                             if (worldChoice.equals("2")) {
@@ -469,7 +471,7 @@ public class Main {
                                 //PLAYER: set up
                                 randomPlayerDamage = playerHealth+15;
                                 //ENEMY: set up
-                                String[] enemies = new String[] {"Drivers", "Night Guards", "TAs", "Science Teacher"};
+                                String[] enemies = new String[] {"Driver", "Night Guard", "TA", "Science Teacher"};
                                 randomEnemy = 1;
                                 int[] enemyDamage = new int[] {15, 30, 40, 45};
                                 randomEnemyDamage = rand.nextInt(enemyDamage[randomEnemy])+10;
@@ -485,9 +487,7 @@ public class Main {
                                 elixirCount = returned[1];
                                 wins = returned[2];
                                 itemCount = returned[3];
-                                System.out.println("MAIN:" +playerHealth+ ", " +elixirCount+ ", " +wins+ ", " +itemCount);
                                 randomPlayerDamage = rand.nextInt(playerHealth+10);
-                                System.out.println("\n--------------------------------------------------\n");
                                 //END GAME
                                 if (itemCount >= 2)
                                     running = false;
@@ -536,25 +536,31 @@ public class Main {
                         System.out.println("                                                         ...*(/((#%&&&&&&@@@@&%#((**,,..   ...   ..   .,/(%&&@&@&&&&&&&&&&&&%%%###(//*,.                                            ");
                         myLine = scan.nextLine();
                         System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
+                        System.out.println("...");
+                        myLine = scan.nextLine();
                         System.out.println("*Back at the fabric store*");
                         myLine = scan.nextLine();
-                        System.out.println("\"Wow, these are nicer than i remember. \"");
+                        System.out.println("\"Wow, these are nicer than I remember. \"");
                         myLine = scan.nextLine();
-                        System.out.println("\"That was a lot of trouble for some shoes\"");
+                        System.out.println("\"That was a lot of trouble for some shoes.\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"Okay, your next item is the piece of wand that was stolen from teh grand witch by the science teacher.\"");
+                        System.out.println("\"Okay, your next item is the piece of wand that was stolen from the Grand Witch by the science teacher.\"");
                         myLine = scan.nextLine();
                         System.out.println("\"A science teacher? \"");
                         myLine = scan.nextLine();
-                        System.out.println("\"Yeah, its partially petrified its so old. He shows it off to his student when they learn about fossils\"");
+                        System.out.println("\"Yeah, its partially petrified it's so old. He shows it off to his students when they learn about fossils.\"");
                         myLine = scan.nextLine();
                         System.out.println("\"?\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"Its probably in his desk as the school. good luck\"");
+                        System.out.println("\"Its probably in his desk at the school. Good luck.\"");
+                        myLine = scan.nextLine();
+                        System.out.println("...");
                         myLine = scan.nextLine();
                         System.out.println("*Treading the halls of the school*");
                         myLine = scan.nextLine();
-                        System.out.println("*From the shadows a man approaches*");
+                        System.out.println("...");
+                        myLine = scan.nextLine();
+                        System.out.println("*From the shadows, a man approaches*");
                         myLine = scan.nextLine();
                         running = true;
                         //ta fight ensues
@@ -565,7 +571,7 @@ public class Main {
                                 System.out.println("\n--------------------------------------------------\n");
                                 //ENEMY: set up
                                 randomPlayerDamage = rand.nextInt(25+((itemCount+1)*15));
-                                String[] enemies = new String[] {"Drivers", "Night Guards", "TAs", "Science Teacher"};
+                                String[] enemies = new String[] {"Driver", "Night Guard", "TA", "Science Teacher"};
                                 randomEnemy = 2;
                                 int[] enemyDamage = new int[] {15, 30, 40, 45};
                                 randomEnemyDamage = rand.nextInt(enemyDamage[randomEnemy])+10;
@@ -584,7 +590,6 @@ public class Main {
                                 //END GAME
                                 if (itemCount >= 3)
                                     running = false;
-                                System.out.println("\n--------------------------------------------------\n");
                             }
                             //ADVANCED
                             if (worldChoice.equals("2")) {
@@ -592,8 +597,8 @@ public class Main {
                                 //PLAYER: set up
                                 randomPlayerDamage = playerHealth+15;
                                 //ENEMY: set up
-                                String[] enemies = new String[] {"Drivers", "Night Guards", "TAs", "Science Teacher"};
-                                randomEnemy = 2;//rand.nextInt(enemies.length);
+                                String[] enemies = new String[] {"Driver", "Night Guard", "TA", "Science Teacher"};
+                                randomEnemy = 2;
                                 int[] enemyDamage = new int[] {15, 30, 40, 45};
                                 randomEnemyDamage = rand.nextInt(enemyDamage[randomEnemy])+10;
                                 int[] enemyHealth = new int[] {50, 75, 90, 150};
@@ -608,9 +613,7 @@ public class Main {
                                 elixirCount = returned[1];
                                 wins = returned[2];
                                 itemCount = returned[3];
-                                System.out.println("MAIN:" +playerHealth+ ", " +elixirCount+ ", " +wins+ ", " +itemCount);
                                 randomPlayerDamage = rand.nextInt(playerHealth+10);
-                                System.out.println("\n--------------------------------------------------\n");
                                 //END GAME
                                 if (itemCount >= 3)
                                     running = false;
@@ -632,7 +635,7 @@ public class Main {
                                 System.out.println("\n--------------------------------------------------\n");
                                 //ENEMY: set up
                                 randomPlayerDamage = rand.nextInt(25+((itemCount+1)*15));
-                                String[] enemies = new String[] {"Drivers", "Night Guards", "TAs", "Science Teacher"};
+                                String[] enemies = new String[] {"Driver", "Night Guard", "TA", "Science Teacher"};
                                 randomEnemy = 3;
                                 int[] enemyDamage = new int[] {15, 30, 40, 45};
                                 randomEnemyDamage = rand.nextInt(enemyDamage[randomEnemy])+10;
@@ -651,7 +654,6 @@ public class Main {
                                 //END GAME
                                 if (itemCount >= 4)
                                     running = false;
-                                System.out.println("\n--------------------------------------------------\n");
                             }
                             //ADVANCED
                             if (worldChoice.equals("2")) {
@@ -659,7 +661,7 @@ public class Main {
                                 //PLAYER: set up
                                 randomPlayerDamage = playerHealth+15;
                                 //ENEMY: set up
-                                String[] enemies = new String[] {"Drivers", "Night Guards", "TAs", "Science Teacher"};
+                                String[] enemies = new String[] {"Driver", "Night Guard", "TA", "Science Teacher"};
                                 randomEnemy = 3;//rand.nextInt(enemies.length);
                                 int[] enemyDamage = new int[] {15, 30, 40, 45};
                                 randomEnemyDamage = rand.nextInt(enemyDamage[randomEnemy])+10;
@@ -675,9 +677,7 @@ public class Main {
                                 elixirCount = returned[1];
                                 wins = returned[2];
                                 itemCount = returned[3];
-                                System.out.println("MAIN:" +playerHealth+ ", " +elixirCount+ ", " +wins+ ", " +itemCount);
                                 randomPlayerDamage = rand.nextInt(playerHealth+10);
-                                System.out.println("\n--------------------------------------------------\n");
                                 //END GAME
                                 if (itemCount >= 4)
                                     running = false;
@@ -720,22 +720,24 @@ public class Main {
                         System.out.println("                                   #                                                                                                                                                ");
                         myLine = scan.nextLine();
                         System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
+                        System.out.println("...");
+                        myLine = scan.nextLine();
                         System.out.println("*Back at the fabric store*");
                         myLine = scan.nextLine();
-                        System.out.println("\"Alright! Now to reignite the well of magic, place the items in the well. And recite the incantation.\"");
+                        System.out.println("\"Alright! Now to reignite the Well of Magic. Place the items in the well, and recite the incantation.\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"TadaSimSalaBimShazamHocusPocusAlakazamOpenSesame\"");
+                        System.out.println("\"TadaSimSalaBimShazamHocusPocusAlakazamOpenSesame.\"");
                         myLine = scan.nextLine();
-                        System.out.println("Game Win");
+                        System.out.println("Game Win.");
                         myLine = scan.nextLine();
                         //win-screen
 
                     }
                     else if(myInteger == 2)
                     {
-                        System.out.println("\"Hello, I'm here for the internship.\"");
+                        System.out.println("\"Hello, im here for the internship.\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"Sorry its been taken.\"");
+                        System.out.println("\"Sorry, it's been taken.\"");
                         myLine = scan.nextLine();
                         System.out.println("Thanks for playing!");
                         System.exit(0);
@@ -776,11 +778,11 @@ public class Main {
             }
             else if(myInteger == 3)
             {
-                System.out.println("\"Was that real?\"");
+                System.out.println("\"was that real?\"");
                 myLine = scan.nextLine();
                 System.out.println("(Something distracts you. It regains your attention.)");
                 myLine = scan.nextLine();
-                System.out.println("(You forget about the voice.)");
+                System.out.println("(you forget about the voice.)");
                 myLine = scan.nextLine();
                 //System.out.println("Meaningless [C]ode");
                 System.out.println("Thanks for playing!");
