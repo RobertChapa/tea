@@ -211,7 +211,7 @@ public class Main {
                 myLine = scan.nextLine();
                 System.out.println("\"?\"");
                 myLine = scan.nextLine();
-                System.out.println("\"Remember? We went to that day camp that one year and we got split it because I was older? and you went with the other kids to play witch. They told us all about the Grand Witch, the Order, and how magic was real and we even got to try riding brooms?\"");
+                System.out.println("\"Remember? We went to that day camp that one year and we got split it because I was older? and you went with the other kids to play witch. \nThey told us all about the Grand Witch, the Order, and how magic was real and we even got to try riding brooms?\"");
                 myLine = scan.nextLine();
                 System.out.println("\"All we did was play dress up and pretend to cast spells with fake wands! And whats this about magic?\"");
                 myLine = scan.nextLine();
@@ -219,7 +219,7 @@ public class Main {
                 myLine = scan.nextLine();
                 System.out.println("\"Broom test?\"");
                 myLine = scan.nextLine();
-                System.out.println("\"yeah like in that scene in harry potter with the brooms. even being to call a broom to yourself was impressive. I was like one of three that could. Cant really do it anymore. Old magics gone.\"");
+                System.out.println("\"yeah like in that scene in harry potter with the brooms. even being to call a broom to yourself was impressive. I was like one of three that could. \nCan't really do it anymore. Old magics gone.\"");
                 myLine = scan.nextLine();
                 System.out.println("\">:O\"");
                 myLine = scan.nextLine();
@@ -227,7 +227,7 @@ public class Main {
                 myLine = scan.nextLine();
                 System.out.println("\"NoO! None of that! I never saw you do any of that stuff.\"");
                 myLine = scan.nextLine();
-                System.out.println("\"Oh yeah, no, of course not. They had the Grand Witch there just to amplify any nearby magic and still few of us could only summon a broom. That was about it. It was cool, but uneventful. When i got home i could barely knock over a broom from a distance\"");
+                System.out.println("\"Oh yeah, no, of course not. They had the Grand Witch there just to amplify any nearby magic and still few of us could only summon a broom. \nThat was about it. It was cool, but uneventful. When i got home i could barely knock over a broom from a distance\"");
                 myLine = scan.nextLine();
                 System.out.println("\">:O\"");
                 myLine = scan.nextLine();
@@ -265,7 +265,7 @@ public class Main {
                     {
                         System.out.println("\"Hello, im here for the internship.\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"Ah yes, your mother told me i should expect you. Your first so its all yours. Not many left even interested in this kind of thing. Anyways, the first thing you need to pickup is 18k in perfume. We're not paying for it, figure it out.\"");
+                        System.out.println("\"Ah yes, your mother told me i should expect you. Your first so its all yours. Not many left even interested in this kind of thing. \nAnyways, the first thing you need to pickup is 18k in perfume. We're not paying for it, figure it out.\"");
                         myLine = scan.nextLine();
                         System.out.println("\"Why perfume?\"");
                         myLine = scan.nextLine();
@@ -277,7 +277,7 @@ public class Main {
                         myLine = scan.nextLine();
                         System.out.println("*Gives tedious look*");
                         myLine = scan.nextLine();
-                        System.out.println("\"but its got hunted by wailers and was made into various goods and sold off piece by piece. And now all that's left is its ambergris which was used to make this case of perfumes, but that should be good enough\"");
+                        System.out.println("\"but its got hunted by wailers and was made into various goods and sold off piece by piece. And now all that's left is its ambergris which was \nused to make this case of perfumes, but that should be good enough\"");
                         myLine = scan.nextLine();
                         System.out.println("\"and so you want me to steal $18k worth of perfume\"");
                         myLine = scan.nextLine();
