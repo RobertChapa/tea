@@ -242,9 +242,9 @@ public class Main {
 
                 if(myInteger == 1)
                 {
-                    System.out.println("\"hey so whats this about magic\"");
+                    System.out.println("\"Hey so whats this about magic\"");
                     myLine = scan.nextLine();
-                    System.out.println("\"oh yeah, the grand witch will be missed dearly!\"");
+                    System.out.println("\"Oh yeah, the grand witch will be missed dearly!\"");
                     myLine = scan.nextLine();
                     System.out.println("\"No! why is this the First time im hearing about this?\"");
                     myLine = scan.nextLine();
@@ -269,23 +269,23 @@ public class Main {
                         myLine = scan.nextLine();
                         System.out.println("\"Why perfume?\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"okay, so the grand witch had a familiar.\"");
+                        System.out.println("\"Okay, so the grand witch had a familiar.\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"yes\"");
+                        System.out.println("\"Yes\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"and this familiar was just a whale she had enchanted\"");
+                        System.out.println("\"And this familiar was just a whale she had enchanted\"");
                         myLine = scan.nextLine();
                         System.out.println("*Gives tedious look*");
                         myLine = scan.nextLine();
-                        System.out.println("\"but its got hunted by wailers and was made into various goods and sold off piece by piece. And now all that's left is its ambergris which was \nused to make this case of perfumes, but that should be good enough\"");
+                        System.out.println("\"But its got hunted by wailers and was made into various goods and sold off piece by piece. And now all that's left is its ambergris which was \nused to make this case of perfumes, but that should be good enough\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"and so you want me to steal $18k worth of perfume\"");
+                        System.out.println("\"And so you want me to steal $18k worth of perfume\"");
                         myLine = scan.nextLine();
                         System.out.println("\"You don't have to steal it.\"");
                         myLine = scan.nextLine();
                         System.out.println("\"Because theres a little bit if magic whale in it?\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"yes, its being shipped to a perfume store about 8 miles from here\"");
+                        System.out.println("\"Yes, its being shipped to a perfume store about 8 miles from here\"");
                         myLine = scan.nextLine();
                         System.out.println("*At the perfume store*");
                         myLine = scan.nextLine();
@@ -441,9 +441,9 @@ public class Main {
                             }
                         }
                         ///////////////win fight
-                        System.out.println("*opens and searches storage unit*");
+                        System.out.println("*Opens and searches storage unit*");
                         myLine = scan.nextLine();
-                        System.out.println("*back at the fabric store*");
+                        System.out.println("*Back at the fabric store*");
                         myLine = scan.nextLine();
                         System.out.println("\"Wow, these are nicer than i remember. \"");
                         myLine = scan.nextLine();
@@ -461,7 +461,7 @@ public class Main {
                         myLine = scan.nextLine();
                         System.out.println("*Treading the halls of the school*");
                         myLine = scan.nextLine();
-                        System.out.println("*from the shadows a man approaches*");
+                        System.out.println("*From the shadows a man approaches*");
                         myLine = scan.nextLine();
                         running = true;
                         //ta fight ensues
@@ -591,7 +591,7 @@ public class Main {
                             }
                         }
                         ///////////////win fight
-                        System.out.println("*back at the fabric store*");
+                        System.out.println("*Back at the fabric store*");
                         myLine = scan.nextLine();
                         System.out.println("\"Alright! Now to reignite the well of magic, place the items in the well. And recite the incantation.\"");
                         myLine = scan.nextLine();
@@ -599,22 +599,26 @@ public class Main {
                         myLine = scan.nextLine();
                         System.out.println("Game Win");
                         myLine = scan.nextLine();
-                        //windscreen
+                        //win-screen
 
                     }
                     else if(myInteger == 2)
                     {
                         System.out.println("\"Hello, im here for the internship.\"");
                         myLine = scan.nextLine();
-                        System.out.println("\"sorry its been taken.\"");
+                        System.out.println("\"Sorry its been taken.\"");
                         myLine = scan.nextLine();
+                        System.out.println("Thanks for playing!");
+                        System.exit(0);
                         //bad end
                     }
                 }
                 else if(myInteger == 2)
                 {
-                    System.out.println("*get busy with something else and forgets about it for 20 years*");
+                    System.out.println("*You get busy with something else and forget about this for 20 years*");
                     myLine = scan.nextLine();
+                    System.out.println("Thanks for playing!");
+                    System.exit(0);
                     //bad end
                 }
                 else if(myInteger == 3)
@@ -623,6 +627,8 @@ public class Main {
                     myLine = scan.nextLine();
                     System.out.println("\"K\"");
                     myLine = scan.nextLine();
+                    System.out.println("Thanks for playing!");
+                    System.exit(0);
                     //bad end
                 }
             }
@@ -634,17 +640,23 @@ public class Main {
                 myLine = scan.nextLine();
                 System.out.println("(You remember the voice, but it'll fade from your memory)");
                 myLine = scan.nextLine();
-                System.out.println("Flowers for [A]ndroids");
+                //System.out.println("Flowers for [A]ndroids");
+                System.out.println("Thanks for playing!");
+                System.exit(0);
+                //bad end
             }
             else if(myInteger == 3)
             {
                 System.out.println("\"was that real?\"");
                 myLine = scan.nextLine();
-                System.out.println("(X occurs and regains your attention.)");
+                System.out.println("(Something distracts you. It regains your attention.)");
                 myLine = scan.nextLine();
                 System.out.println("(you forget about the voice.)");
                 myLine = scan.nextLine();
-                System.out.println("Meaningless [C]ode");
+                //System.out.println("Meaningless [C]ode");
+                System.out.println("Thanks for playing!");
+                System.exit(0);
+                //bad end
             }
 
         }
