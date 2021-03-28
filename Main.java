@@ -733,7 +733,7 @@ public class Main {
                     }
                     else if(myInteger == 2)
                     {
-                        System.out.println("\"Hello, im here for the internship.\"");
+                        System.out.println("\"Hello, I'm here for the internship.\"");
                         myLine = scan.nextLine();
                         System.out.println("\"Sorry its been taken.\"");
                         myLine = scan.nextLine();
@@ -776,11 +776,11 @@ public class Main {
             }
             else if(myInteger == 3)
             {
-                System.out.println("\"was that real?\"");
+                System.out.println("\"Was that real?\"");
                 myLine = scan.nextLine();
                 System.out.println("(Something distracts you. It regains your attention.)");
                 myLine = scan.nextLine();
-                System.out.println("(you forget about the voice.)");
+                System.out.println("(You forget about the voice.)");
                 myLine = scan.nextLine();
                 //System.out.println("Meaningless [C]ode");
                 System.out.println("Thanks for playing!");
