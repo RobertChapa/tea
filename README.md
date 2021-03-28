@@ -17,7 +17,7 @@ The last of the world's old magic has nearly disappeared from the world. All tha
   * Input starting commands 
   	* yes
   	* name
-  	* difficulty (1,2)
+  	* difficulty (1, 2)
   	* go
   	* next
 
