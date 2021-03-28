@@ -402,7 +402,7 @@ public class Main {
                         System.out.println("                                                @                                                          &,                                                                       ");
                         System.out.println("                                                 @@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&@,                                                                        ");
                         myLine = scan.nextLine();
-                        System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n");
+                        System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\n\n\n\n\n\n\n");
                         System.out.println("*At the fabric store*");
                         myLine = scan.nextLine();
                         System.out.println("\"Very good, now your next job is to retrieve the Ruby Kicks from the grand witches hoard\"");
@@ -535,7 +535,7 @@ public class Main {
                         System.out.println("       .,(%&@%(,  ..,.,.....,.,,..,,,.,.,,,,,..,,,,,,..,,,,,,,,..,,..,....,,............,..,..............,,..,.,..,.,,,.../&&%%%%#####((/**...                                     ");
                         System.out.println("                                                         ...*(/((#%&&&&&&@@@@&%#((**,,..   ...   ..   .,/(%&&@&@&&&&&&&&&&&&%%%###(//*,.                                            ");
                         myLine = scan.nextLine();
-                        System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n");
+                        System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
                         System.out.println("*Back at the fabric store*");
                         myLine = scan.nextLine();
                         System.out.println("\"Wow, these are nicer than i remember. \"");
@@ -719,7 +719,7 @@ public class Main {
                         System.out.println("                                 %&&&&%                                                                                                                                             ");
                         System.out.println("                                   #                                                                                                                                                ");
                         myLine = scan.nextLine();
-                        System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n");
+                        System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
                         System.out.println("*Back at the fabric store*");
                         myLine = scan.nextLine();
                         System.out.println("\"Alright! Now to reignite the well of magic, place the items in the well. And recite the incantation.\"");
